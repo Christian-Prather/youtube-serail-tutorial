@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../third-party/include/serial/v8stdint.h
+stddef.h
+-
+stdio.h
+-
+stdint.h
+-
+
+/home/christian/serial-test/code/test.cpp
+third-party/include/serial/serial.h
+/home/christian/serial-test/code/third-party/include/serial/serial.h
+iostream
+-
+thread
+/home/christian/serial-test/code/thread
+
+/home/christian/serial-test/code/third-party/include/serial/serial.h
+limits
+-
+vector
+-
+string
+-
+cstring
+-
+sstream
+-
+exception
+-
+stdexcept
+-
+serial/v8stdint.h
+-
+

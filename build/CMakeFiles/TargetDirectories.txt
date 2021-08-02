@@ -1,0 +1,4 @@
+/home/christian/serial-test/code/build/CMakeFiles/rebuild_cache.dir
+/home/christian/serial-test/code/build/CMakeFiles/edit_cache.dir
+/home/christian/serial-test/code/build/CMakeFiles/arduino-communication.dir
+/home/christian/serial-test/code/build/CMakeFiles/serial.dir
